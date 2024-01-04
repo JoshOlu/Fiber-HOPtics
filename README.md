@@ -14,4 +14,5 @@ Fiber HOPtics is fully coded in Python 3 using Pygame modules.
 We created this project at a 24-hour hackathon as a way to help fundraise money for network improvements on our university's campus.
 
 Controls: "Spacebar" for jumping, "Enter" to restart the game.
+
 Known Issue(s): Restarting the game opens a brand new pygame window
