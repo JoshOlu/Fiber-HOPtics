@@ -5,6 +5,9 @@ Created on October 29-30, 2016 at Google DC Hack 2016 by:
 Joshua Olumese, Kurt Kennedy, Chauncey Rogers & Trevon Wiggs
 
 
+![](https://github.com/JoshOlu/Fiber-HOPtics/blob/master/fiberhoptics.gif)
+
+
 Fiber HOPtics is fully coded in Python 3 using Pygame modules.
 
 
